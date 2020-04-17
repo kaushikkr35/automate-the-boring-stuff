@@ -1,0 +1,8 @@
+print('Enter the name of cat 1 :')
+cat_name1 = input()
+print('Enter the name of cat 2 :')
+cat_name2 = input()
+print('Enter the name of cat 3 :')
+cat_name3 = input()
+print('The cat names are: ')
+print(cat_name1 + ' ' + cat_name2 + ' ' + cat_name3)
